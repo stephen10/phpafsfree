@@ -8,9 +8,9 @@ $ID = q$Id: partinfo,v 1.2 2004/03/08 23:26:43 eagle Exp $;
 # Copyright 1998, 1999, 2003, 2004
 #     Board of Trustees, Leland Stanford Jr. University
 # Minor mods (HTML colors, vos locations, formatting)
-#              by Stephen Joyce <stephen@physics.unc.edu> Oct 2006
+#              by Stephen Joyce, Oct 2006
 # 2008-03-22 Added quick and dirty code to display the number of volumes
-# on each partition. <stephen@physics.unc.edu>
+# on each partition. - Stephen Joyce
 #
 # Takes an AFS server as an argument and then runs vos partinfo on it,
 # parsing the output and producing a slightly more verbose report that
