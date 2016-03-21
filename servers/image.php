@@ -13,10 +13,10 @@
 //   REQUIRES PHP and GD to function
 //
 // AUTHOR
-//   Stephen Joyce <stephen@physics.unc.edu>
+//   Stephen Joyce
 //
 // COPYRIGHT
-//   Copyright (C) 2006-2009  Stephen Joyce 
+//   Copyright (C) 2006-2016  Stephen Joyce 
 //
 //   This program is free software; you can redistribute it and/or modify
 //   it under the terms of the GNU General Public License as published by
